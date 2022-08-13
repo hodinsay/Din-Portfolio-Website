@@ -8,7 +8,7 @@ A website for local small or big barber shop businesses. This design has all the
 
 **Tech Used**: HTML 5, CSS 3, and JavaScript
 
-# Website Featured:
+# My Addition to the Website:
 
 - Created a nav menu slider function by using 'addEventListener "click"' via JavaScript.
 - Created hover background color change effect on nav menu by using ':hover' via CSS.
