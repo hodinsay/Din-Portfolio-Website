@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-A website for local small or big barber shop businesses. This design has all the basic necessity components for a successful business online presents. The website is reponsive and accessible on any mobile devices. 
+An online portfolio representing some of my works with general information about myself and my services including a functional contact form to connect with me. The website is responsive and accessible on mobile devices.
 
 **Link to the Website**: https://hodinsportfolio.netlify.app/
 
