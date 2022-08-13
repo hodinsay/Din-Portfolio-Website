@@ -1,4 +1,4 @@
-My Portfolio Website
+# My Portfolio Website
 
 A website for local small or big barber shop businesses. This design has all the basic necessity components for a successful business online presents. The website is reponsive and accessible on any mobile devices. 
 
