@@ -4,6 +4,8 @@ An online portfolio representing some of my works with general information about
 
 **Link to the Website**: https://hodinsportfolio.netlify.app/
 
+<img width="1420" alt="portfolio" src="https://user-images.githubusercontent.com/100463706/190224992-3c35ca88-846c-499a-852e-c7505b36867a.png">
+
 # How It's Made: 
 
 **Tech Used**: HTML 5, CSS 3, and JavaScript
